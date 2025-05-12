@@ -1,0 +1,2 @@
+# THESE ARE NOT THE ONLY FILES!
+The face recognition system on the drone uses the CameraWebServer.ino example file and modifies it to connect to a common network with the SFR server. The video feed then is fed to the SFR server for processing.
