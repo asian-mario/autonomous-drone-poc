@@ -17,7 +17,7 @@ This is a repository for the final code involved in my autonomous drone security
 - [ ] Sound Output
 - [ ] Dedicated 'Modes'
 
-My full report is listed [here](./report/DroneRep.pdf) and a guide will be made soon.
+My full report is listed [here](./report/DroneRep.pdf) and a [guide](https://asian-mario.github.io/AutonomousDrone).
 
 Components Required:
 - Arduino Mega 2560 x1 (should be swapped out for a more modern board)
